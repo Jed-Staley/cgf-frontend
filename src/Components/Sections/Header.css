@@ -10,9 +10,21 @@
   color: #ffffff;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
+  gap: 2rem; 
   padding: 0 1rem;
   z-index: 10;
+}
+
+.logo {
+  height: 48px;
+  width: auto;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
 }
 
 .header a {
