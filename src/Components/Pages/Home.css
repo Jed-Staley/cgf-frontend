@@ -1,0 +1,15 @@
+.home {
+  background: transparent;
+
+  width: 50%;
+  margin: 2rem auto;
+
+  height: 10rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+}
